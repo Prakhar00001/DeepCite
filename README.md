@@ -126,18 +126,4 @@ DeepCite/
 
 ---
 
-## 2-Minute Investor Pitch
 
-> **"Every AI research tool today has the same problem: hallucination.** You ask a question, you get a confident answer, and half the citations don't exist. DeepCite fixes this with a multi-agent architecture inspired by how real research teams work.
->
-> Here's how it works. When a user asks a research question, four specialized AI agents execute in sequence. The **Planner** breaks the question into precise sub-questions. The **Researcher** extracts verified sources with real citations. The **Critic** audits every finding for bias, gaps, and hallucination — targeting a 0% hallucination rate. And the **Synthesizer** produces an exhaustive report with an instant definition at the top, confidence scores, and expandable citations with source links.
->
-> The user watches it happen in real time — a live workspace showing each agent handing off to the next, with a shared memory terminal logging every action. When it's done, they get a premium research report and an evaluation dashboard showing faithfulness, corpus coverage, and hallucination metrics.
->
-> The market for AI-powered research tools is exploding — from academia to enterprise intelligence to legal analysis. DeepCite's multi-agent approach with built-in self-critique is the foundation for a product that researchers, analysts, and knowledge workers can actually trust. We're building the Perplexity for serious research — where every claim is sourced, every finding is audited, and every report is investor-grade."
-
----
-
-## License
-
-MIT
